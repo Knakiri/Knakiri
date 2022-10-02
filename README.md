@@ -1,4 +1,4 @@
-                                                                 K n A k I r I
+                                                           K n A k I r I
 
 <h1 align="center">Hi 👋, I'm Knakiri</h1>
 <h3 align="center">A Software developer from Netherlands</h3>
